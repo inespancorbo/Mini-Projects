@@ -4,7 +4,7 @@ Outline of the Studies using AWS SageMaker:
 
 ## Case Study #1: Employee Salary Predictions
 
-Simple Dataset + Regression + Sklearn + S3 + Linear Model + Model Deployment + Endpoint Inference
+Simple Dataset + Regression + Sklearn + S3 + Linear Learner + Model Deployment + Endpoint Inference
 
 - Leverage machine learning to predict employees salary based on the number of years of experience.
 - 
