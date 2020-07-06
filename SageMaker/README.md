@@ -1,6 +1,6 @@
 # AWS SageMaker
 
-Outline of the Studies using AWS SageMaker:
+Outline of some Studies done using AWS SageMaker:
 
 ## Case Study #1: Employee Salary Predictions
 
