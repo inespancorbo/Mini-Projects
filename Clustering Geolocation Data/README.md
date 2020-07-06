@@ -5,3 +5,5 @@ Here we use a real life taxi rank location data-set of the city of Johannesburg,
 *Note: Taxi Rank - a place where taxis park while awaiting customers.*
 
 [Click here](https://nbviewer.jupyter.org/github/inespancorbo/Projects/blob/master/Clustering%20Geolocation%20Data/Notebook.ipynb) to check out the Jupyter Notebook.
+
+\textcolor{red}{red}
