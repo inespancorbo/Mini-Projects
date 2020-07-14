@@ -3,6 +3,4 @@ Using Cost Complexity Pruning to build a Classification Decision Tree, which use
 
 [See Kaggle for more information](https://www.kaggle.com/ronitf/heart-disease-uci)
 
-[See code]()
-
-[See Jupyter Notebook]()
+[See Jupyter Notebook](https://nbviewer.jupyter.org/github/inespancorbo/Projects/blob/master/Heart%20Disease%20Classification%20Tree/Notebook.ipynb)
