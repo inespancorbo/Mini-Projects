@@ -12,3 +12,5 @@ This dataset is a modified version of the California Housing dataset available f
 [Luís Torgo's page](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html) (University of Porto)
 
 [See Jupyter Notebook]()
+
+[See Kaggle for more info](https://www.kaggle.com/camnugent/california-housing-prices)
