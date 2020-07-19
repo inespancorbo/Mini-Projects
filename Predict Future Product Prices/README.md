@@ -7,10 +7,10 @@ Prophet is an open-source tool used for time-series forecasting.
 The dataset was taken from Hass Avocado Board website in May of 2018. Below is how the Hass Avocado Board describes the data:
 
 - **Date** – The date of the observation
-- **AveragePrice**– the average price of a single avocado
-- **type**– conventional or organic
+- **AveragePrice** – the average price of a single avocado
+- **type** – conventional or organic
 - **year** – the year
-- **Region**– the city or region of the observation
+- **Region** – the city or region of the observation
 - **Total Volume** – Total number of avocados sold
 - **4046** – Total number of avocados with PLU 4046 sold
 - **4225** – Total number of avocados with PLU 4225 sold
@@ -18,4 +18,4 @@ The dataset was taken from Hass Avocado Board website in May of 2018. Below is h
 
 The dataset is also available on [Kaggle](https://www.kaggle.com/neuromusic/avocado-prices).
 
-[See Jupyter Notebook]().
+[See the Jupyter Notebook]().
