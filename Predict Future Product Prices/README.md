@@ -18,4 +18,4 @@ The dataset was taken from Hass Avocado Board website in May of 2018. Below is h
 
 The dataset is also available on [Kaggle](https://www.kaggle.com/neuromusic/avocado-prices).
 
-[See the Jupyter Notebook]().
+[See the Jupyter Notebook](https://nbviewer.jupyter.org/github/inespancorbo/Mini-Projects/blob/master/Predict%20Future%20Product%20Prices/Notebook.ipynb).
