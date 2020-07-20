@@ -13,4 +13,4 @@ This dataset is a modified version of the California Housing dataset available f
 
 [See Kaggle for more info](https://www.kaggle.com/camnugent/california-housing-prices)
 
-[See Jupyter Notebook](https://nbviewer.jupyter.org/github/inespancorbo/Mini-Projects/blob/master/Predict%20House%20Prices%20with%20Keras/Notebook.ipynb)
+[See Jupyter Notebook]()
