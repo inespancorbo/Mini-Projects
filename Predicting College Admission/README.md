@@ -7,4 +7,4 @@ This project is part of the Graduate Admission competition held on Kaggle. The d
 
 [See Kaggle](https://www.kaggle.com/mohansacharya/graduate-admissions)
 
-[See Jupyter Notebook](https://github.com/inespancorbo/Projects/blob/master/Predicting%20College%20Admission/Notebook.ipynb)
+[See Jupyter Notebook](https://nbviewer.jupyter.org/github/inespancorbo/Mini-Projects/blob/master/Predicting%20College%20Admission/Notebook.ipynb)
