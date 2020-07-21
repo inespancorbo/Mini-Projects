@@ -6,4 +6,4 @@ The goal is to explore the COVID-19 Radiography dataset, created by a team of re
 
 The dataset has 219 COVID-19 positive images, 1341 normal images and 1345 viral pneumonia images.
 
-See the [Jupyter Notebook]() for the steps taking for data preprocessing, issues encountered, a model creation and testing predictions and metrics to determine model accuracy. 
+See the [Jupyter Notebook]() for data preprocessing steps, issues encountered, a model creation and testing predictions and metrics to determine model accuracy. 
