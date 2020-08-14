@@ -2,7 +2,7 @@
 
 Outline of some studies done using AWS SageMaker:
 
-## Case Study #1: Employee Salary Predictions
+## [Case Study #1: Employee Salary Predictions](https://nbviewer.jupyter.org/github/inespancorbo/Mini-Projects/blob/master/SageMaker/linear_simple_model.ipynb)
 
 Simple Dataset + Regression + Sklearn + S3 + Linear Learner + Model Deployment + Endpoint Inference
 
