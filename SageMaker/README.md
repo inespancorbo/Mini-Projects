@@ -8,7 +8,7 @@ Simple Dataset + Regression + Sklearn + S3 + Linear Learner + Model Deployment +
 
 Leverage machine learning to predict employees salary based on the number of years of experience.
 
-## Case Study #2: Medical Insurance Premiums Prediction
+## [Case Study #2: Medical Insurance Premiums Prediction](https://github.com/inespancorbo/Mini-Projects/blob/master/SageMaker/linear_multiple_model.ipynb)
 
 Multiple Linear Regression + Categorical/Numerical Data + Regression KPIs + ANNs + Activation Functions + Keras
 
